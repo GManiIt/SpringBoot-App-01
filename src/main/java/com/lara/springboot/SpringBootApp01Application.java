@@ -9,8 +9,7 @@ public class SpringBootApp01Application {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootApp01Application.class, args);
 
-		//code will use
-		int i=10;
+		//stash after using
 	}
 
 }
