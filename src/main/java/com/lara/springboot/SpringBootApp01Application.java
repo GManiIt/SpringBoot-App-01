@@ -8,9 +8,14 @@ public class SpringBootApp01Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootApp01Application.class, args);
+<<<<<<< Updated upstream
 
 		int j =20;
 		//this code changed after stash
+=======
+		//code will use
+		int i=10;
+>>>>>>> Stashed changes
 	}
 
 }
